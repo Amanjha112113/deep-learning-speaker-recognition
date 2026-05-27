@@ -172,15 +172,8 @@ This project is designed primarily for:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/deep-learning-speaker-recognition.git
+git clone https://github.com/Amanjha112113/deep-learning-speaker-recognition.git
 ```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 # ▶️ Run The Project
@@ -228,7 +221,6 @@ deep-learning-speaker-recognition/
 ├── speaker_recognition_model.keras
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ---
